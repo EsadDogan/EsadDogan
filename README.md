@@ -1,5 +1,5 @@
 # 💫 About Me:
-> Currently studying Computer Eng. at Vistula Uni.<br>> Freelance Mobile App Developer<br>> Working on New projects<br>> Last Project on Play Store: [https://play.google.com/store/apps/details?id=com.matlub.cinechat](https://play.google.com/store/apps/details?id=com.neogpt.english.grammar&hl=en_US)
+> Currently studying Computer Eng. at Vistula Uni.<br>> Freelance Mobile App Developer<br>> Working on New projects<br>> Last Project on Play Store: (https://play.google.com/store/apps/details?id=com.neogpt.english.grammar&hl=en_US)
 
 
 ## 🌐 Socials:
